@@ -1,8 +1,8 @@
-# Xensis
+# PXRPLE SCRIMS
 
 An expansive Fortnite lobby bot with a handful of features.
 
-> Discord server: <a href="https://discord.gg/88r2ShB" target="_blank">Xensis Bots</a>
+> Discord server: <a href="https://discord.gg/4nFBSBV" target="_blank">Pxrple Scrims</a>
 
 ## Getting Started
 
@@ -39,24 +39,20 @@ Step 4.
 
 Step 5.
 
-> Open "config.json" and fill out the bot's information. (<a href="https://github.com/KaosDrip/Xensis/wiki/Config-Guide" target="_blank">Guide</a>)
+> Open "config.json" and fill out the bot's information. 
 
 Step 6.
 
-> Run "START BOT.bat"
+> Run "fortnite.py"
 
 
 Step 7.
 
-> Enjoy the bot! For a full list of commands, check out the <a href="https://github.com/KaosDrip/Xensis/wiki/Commands" target="_blank">Command Wiki</a>
-
+> Enjoy the bot! For a full list of commands, check out the Server <a href="https://discord.gg/4nFBSBV" target="_blank">Pxrple Scrims</a>
 
 ## Deployment
 
-If it prompts for an authorization code, get the code from <a href="https://github.com/KaosDrip/Xensis/wiki/Authorization-Code" target="_blank">here</a>
+If it prompts for an authorization code, login and copy the auth code <a href="https://www.epicgames.com/id/login?redirectUrl=https%3A%2F%2Fwww.epicgames.com%2Fid%2Fapi%2Fredirect%3FclientId%3D3446cd72694c4a4485d81b77adbb2141%26responseType%3Dcode" target="_blank">here</a>
 
-If you have any other issues / questions, feel free to join our <a href="https://discord.gg/88r2ShB" target="_blank">Discord server</a> or check out the <a href="https://github.com/KaosDrip/Xensis/wiki/FAQ" target="_blank">FAQ</a>
+If you have any other issues / questions, feel free to join our <a href="https://discord.gg/4nFBSBV" target="_blank">Discord server</a> 
 
-## Acknowledgments
-
-* <a href="https://fortnitepy.readthedocs.io/en/latest/intro.html" target="_blank">fortnitepy</a>
